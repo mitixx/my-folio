@@ -1,15 +1,15 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+    "blog": {
+    "title": "Blog ↗",
+    "type": "page",
+    "href": "https://mitixx-blog.netlify.app/",
+    "newWindow": true
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "mailto:okametori.t@gmail.com",
     "newWindow": true
   }
 }
