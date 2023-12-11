@@ -20,8 +20,8 @@ ChartJS.register(
 
 export default function Chart(data) {
     const options = {
-        indexAxis:'y',
         responsive: true,
+        indexAxis: 'y' as const,
         plugins: {
         legend: {
             display:false,
