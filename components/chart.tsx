@@ -14,8 +14,7 @@ ChartJS.register(
   LinearScale,
   BarElement,
   Title,
-  Tooltip,
-  Legend
+  Tooltip
 );
 
 export default function Chart(data) {
