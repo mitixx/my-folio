@@ -6,6 +6,12 @@
     "href": "https://mitixx-blog.netlify.app/",
     "newWindow": true
   },
+  "X": {
+    "title": "X ↗",
+    "type": "page",
+    "href": "https://x.com/darupu_tech",
+    "newWindow": true
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
